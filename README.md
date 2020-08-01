@@ -29,7 +29,7 @@
 - [NGXD](https://github.com/IndigoSoft/ngxd) - Самый легкий способ использовать динамические компоненты в Angular
 - [NGXF](https://github.com/ngxf/platform) - Библиотека позволяющая создавать Angular приложения декларативно
 - [NodeGUI](https://github.com/irustm/angular-nodegui) - Платформа повзоляющая писать нативные приложения для Angular
-- [Figma to Angular](https://github.com/irustm/figma-to-angular) - Конвертируем Firma в Angular
+- [Figma to Angular](https://github.com/irustm/figma-to-angular) - Конвертируем Figma в Angular
 - [ngx-translate-migrate](https://github.com/irustm/ngx-translate-migrate) - Автоматизации миграции из ngx-translate в Angular i18n
 - [ngx-translate-all](https://github.com/irustm/ngx-translate-all) - Автоматизация интернационализации Angular проектов
 - [ng-app-counter](https://github.com/irustm/ng-app-counter) - CLI инструмент для подсчета Modules, Lazy Modules, Pipes, Providers, Directives, Components
