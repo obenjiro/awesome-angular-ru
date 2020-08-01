@@ -51,6 +51,7 @@
 ## Комьюнити
 
 - [Telegram Angular RU](https://t.me/angular_ru) - Самое крупное русскоязычное комьюнити Angular
+- [Angular Ru Discord](https://discord.gg/GWBZgDE) - Сообщество Angular в Discord. Идеально для тех кто хочет пообщаться голосом
 
 ## Помощь
 
