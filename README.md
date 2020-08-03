@@ -47,7 +47,6 @@
 
 - [angular-open-source-starter](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - Стартер для создания OpenSource библиотек
 - [create-angular-components](https://github.com/obenjiro/create-angular-components) - Создаем Angular компоненты из HTML
-- [create-angular-components](https://github.com/obenjiro/create-angular-components) - Создаем Angular компоненты из HTML
 - [angular-websocket-starter](https://github.com/AlexDaSoul/angular-websocket-starter) - Стартер для WebSocket-клиента с использованием WebSocketSubject
 - [angular-websocket-example](https://github.com/AlexDaSoul/angular-websocket-example) - Более сложный и гибкий пример работы с WebSocket
 - [nestjs-grpc-angular](https://github.com/AlexDaSoul/nestjs-grpc-angular) - Fullstack-стартер с использованием gRPC
