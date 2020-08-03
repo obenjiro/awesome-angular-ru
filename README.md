@@ -42,6 +42,7 @@
 - [ng-dompurify](https://github.com/TinkoffCreditSystems/ng-dompurify) — Angular way обертка над dompurify
 - [ng-event-plugins](https://github.com/TinkoffCreditSystems/ng-event-plugins) — Оптимизация change detection при обработке ивентов
 - [ngx-cookie-service](https://github.com/stevermeister/ngx-cookie-service) — Сервис для удобной работы с cookie
+- [ngx-until-on-destroy] (https://github.com/xuxicheta/ngx-until-on-destroy) - Декоратор для завершения подписок
 
 ## Кодогенерация
 
