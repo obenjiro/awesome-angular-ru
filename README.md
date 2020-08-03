@@ -32,8 +32,8 @@
 - [Figma to Angular](https://github.com/irustm/figma-to-angular) - Конвертируем Figma в Angular
 - [ngx-translate-migrate](https://github.com/irustm/ngx-translate-migrate) - Автоматизация миграции из ngx-translate в Angular i18n
 - [ngx-translate-all](https://github.com/irustm/ngx-translate-all) - Автоматизация интернационализации Angular проектов
-- [ngx-i18n-combine](https://github.com/AlexDaSoul/ngx-i18n-combine) - CLI инструмент для объединения i18n json
- файлов всего приложения в один
+- [ngx-i18n-combine](https://github.com/AlexDaSoul/ngx-i18n-combine) - CLI инструмент для объединения всех i18n json
+ файлов приложения в один
 - [ng-app-counter](https://github.com/irustm/ng-app-counter) - CLI инструмент для подсчета Modules, Lazy Modules, Pipes, Providers, Directives, Components
 - [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - Angular обертка над FullCalendar
 - [angular-editor](https://github.com/kolkov/angular-editor) - Нативный WYSIWYG редактор, написанный на Angular
@@ -48,12 +48,9 @@
 - [angular-open-source-starter](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - Стартер для создания OpenSource библиотек
 - [create-angular-components](https://github.com/obenjiro/create-angular-components) - Создаем Angular компоненты из HTML
 - [create-angular-components](https://github.com/obenjiro/create-angular-components) - Создаем Angular компоненты из HTML
-- [angular-websocket-starter](https://github.com/AlexDaSoul/angular-websocket-starter
-) - Простой пример WebSocket с использованием WebSocketSubject
-- [angular-websocket-example](https://github.com/AlexDaSoul/angular-websocket-example
-) - Более сложный и гибкий пример работы с WebSocket
-- [nestjs-grpc-angular](https://github.com/AlexDaSoul/nestjs-grpc-angular
-) - Fullstack-стартер с использованием gRPC
+- [angular-websocket-starter](https://github.com/AlexDaSoul/angular-websocket-starter) - Стартер для WebSocket-клиента с использованием WebSocketSubject
+- [angular-websocket-example](https://github.com/AlexDaSoul/angular-websocket-example) - Более сложный и гибкий пример работы с WebSocket
+- [nestjs-grpc-angular](https://github.com/AlexDaSoul/nestjs-grpc-angular) - Fullstack-стартер с использованием gRPC
 
 ## Проекты
 
