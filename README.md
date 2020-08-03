@@ -35,9 +35,11 @@
 - [ng-app-counter](https://github.com/irustm/ng-app-counter) - CLI инструмент для подсчета Modules, Lazy Modules, Pipes, Providers, Directives, Components
 - [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - Angular обертка над FullCalendar
 - [angular-editor](https://github.com/kolkov/angular-editor) - Нативный WYSIWYG редактор написанный на Angular
+- [ngx-wig](https://github.com/stevermeister/ngx-wig) - Самый легкий WYSIWYG редактор на Angular, с поддержкой плагинов
 - [ng-polymorpheus](https://github.com/TinkoffCreditSystems/ng-polymorpheus) — Полиморфные шаблоны
 - [ng-dompurify](https://github.com/TinkoffCreditSystems/ng-dompurify) — Angular way обертка над dompurify
 - [ng-event-plugins](https://github.com/TinkoffCreditSystems/ng-event-plugins) — Оптимизация change detection при обработке ивентов
+- [ngx-cookie-service](https://github.com/stevermeister/ngx-cookie-service) — сервис для удобной работы с cookie
 
 ## Кодогенерация
 
